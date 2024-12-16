@@ -1,0 +1,1034 @@
+[2024-12-16 19:17:56] [Active Window] Active Window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:56] [Clipboard] Clipboard: import os
+[2024-12-16 19:17:56] [Audio] Recording audio snippet.
+[2024-12-16 19:17:56] [Mouse] Mouse Released at (1058, 486) with Button.left
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 486) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 484) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 475) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 460) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 446) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1058, 435) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1059, 424) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1060, 416) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1062, 408) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse moved to (1064, 400) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:17:57] [Mouse] Mouse Pressed at (1064, 400) with Button.left
+[2024-12-16 19:17:57] [Mouse] Mouse Released at (1064, 400) with Button.left
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1064, 400) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1064, 401) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1064, 407) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1061, 420) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1057, 435) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1055, 447) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1053, 458) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1051, 467) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1049, 477) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1048, 486) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1045, 496) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1042, 510) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1040, 526) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1037, 542) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1035, 562) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1032, 576) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1030, 585) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1029, 592) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1028, 598) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1028, 600) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1028, 602) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1028, 603) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1027, 603) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1026, 605) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1024, 608) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1019, 613) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1012, 619) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (1002, 625) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (992, 629) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (983, 634) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (974, 640) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (968, 643) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (963, 647) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (958, 649) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (955, 652) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (952, 653) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (950, 655) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:00] [Mouse] Mouse moved to (949, 656) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (949, 656) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (949, 658) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (949, 661) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (949, 667) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (949, 671) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (950, 675) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (950, 678) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (951, 681) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (951, 683) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 687) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 690) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 694) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 698) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 702) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (952, 707) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (951, 713) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (948, 719) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (945, 724) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (943, 727) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (939, 731) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (935, 734) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (931, 737) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (928, 739) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (926, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (925, 742) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (923, 744) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (922, 745) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (921, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (921, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (920, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (920, 747) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (920, 747) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (919, 747) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (919, 747) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (920, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (922, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (927, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (934, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (941, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (946, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (950, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (954, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (958, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (961, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (964, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (967, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (969, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (970, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (971, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (972, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (972, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (973, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (973, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (974, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (975, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:01] [Mouse] Mouse moved to (975, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (976, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (976, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (976, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (966, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (943, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (922, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (908, 742) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (895, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (881, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (871, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (861, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (856, 741) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (851, 742) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (849, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Mouse] Mouse moved to (847, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:02] [Webcam] Captured webcam image.
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (847, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (846, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (845, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (843, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (841, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (838, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (836, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (834, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (831, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (829, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (827, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (826, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (823, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (821, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (819, 743) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (818, 744) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (816, 744) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (816, 744) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (815, 744) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (815, 745) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (814, 745) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (814, 745) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (813, 745) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (812, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (812, 746) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (811, 747) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (811, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (810, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (810, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (809, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (808, 748) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (808, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (808, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (807, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (806, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (806, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (805, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (804, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (804, 749) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (804, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (803, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:04] [Mouse] Mouse moved to (802, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (799, 750) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (794, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (786, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (782, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (778, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (775, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (774, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (773, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (772, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (772, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (772, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (772, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (772, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (774, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (777, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (780, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (782, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (784, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (786, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (789, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (791, 751) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (794, 752) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (796, 752) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse moved to (798, 752) in window: keylogger.py - keylogger.py - Visual Studio Code
+[2024-12-16 19:18:05] [Mouse] Mouse Pressed at (798, 752) with Button.left
+[2024-12-16 19:18:05] [Mouse] Mouse Released at (798, 752) with Button.left
+[2024-12-16 19:18:05] [Mouse] Mouse Pressed at (798, 752) with Button.left
+[2024-12-16 19:18:05] [Mouse] Mouse Released at (798, 752) with Button.left
+[2024-12-16 19:18:06] [Active Window] Active Window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (797, 752) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (794, 750) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (783, 731) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (770, 712) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (756, 683) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (745, 653) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (736, 620) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (729, 588) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (725, 562) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (723, 534) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (723, 521) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (722, 511) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (722, 506) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (721, 503) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (721, 502) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (721, 500) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (720, 497) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (716, 485) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (711, 462) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (709, 448) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (707, 437) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (706, 429) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (704, 422) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (703, 418) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (702, 413) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (702, 412) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (701, 411) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (701, 410) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (701, 409) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (700, 408) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (699, 408) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (699, 408) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (698, 408) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (698, 409) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (698, 409) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (698, 410) in window: New Tab - Google Chrome
+[2024-12-16 19:18:07] [Mouse] Mouse moved to (697, 410) in window: New Tab - Google Chrome
+[2024-12-16 19:18:08] [Mouse] Mouse Pressed at (697, 410) with Button.left
+[2024-12-16 19:18:08] [Mouse] Mouse Released at (697, 410) with Button.left
+[2024-12-16 19:18:09] [Keystroke] Key: g
+[2024-12-16 19:18:09] [Keystroke] Key: o
+[2024-12-16 19:18:09] [Keystroke] Key: o
+[2024-12-16 19:18:10] [Keystroke] Key: g
+[2024-12-16 19:18:10] [Keystroke] Key: l
+[2024-12-16 19:18:12] [Keystroke] Key: e
+[2024-12-16 19:18:12] [Keystroke] Key: .
+[2024-12-16 19:18:13] [Keystroke] Key: c
+[2024-12-16 19:18:13] [Keystroke] Key: o
+[2024-12-16 19:18:14] [Keystroke] Key: m
+[2024-12-16 19:18:14] [Keystroke] Special Key: Key.enter
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (697, 410) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (697, 412) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (701, 419) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (707, 437) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (712, 449) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (718, 463) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (724, 480) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (732, 496) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (740, 511) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (750, 539) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (757, 558) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (761, 582) in window: Google - Google Chrome
+[2024-12-16 19:18:15] [Mouse] Mouse moved to (769, 604) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (780, 630) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (786, 647) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (792, 660) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (795, 669) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (799, 678) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (801, 684) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (802, 688) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (802, 688) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (802, 689) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (802, 690) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (802, 694) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (799, 700) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (797, 706) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (793, 712) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (790, 714) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (788, 717) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (786, 718) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (784, 720) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (782, 721) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (781, 723) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (779, 724) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (778, 725) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (776, 726) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (776, 728) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (775, 729) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (773, 732) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (773, 734) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (772, 737) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (771, 740) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (770, 742) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (769, 742) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (768, 744) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (768, 744) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (768, 745) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (768, 745) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (767, 745) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (767, 746) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (767, 746) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (766, 746) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (766, 747) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (765, 747) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (765, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (764, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (763, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (763, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (762, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Mouse] Mouse moved to (762, 748) in window: Google - Google Chrome
+[2024-12-16 19:18:16] [Active Window] Active Window: Google - Google Chrome
+[2024-12-16 19:18:17] [Mouse] Mouse Pressed at (762, 748) with Button.left
+[2024-12-16 19:18:17] [Mouse] Mouse Released at (762, 748) with Button.left
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (762, 748) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (762, 747) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (758, 736) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (748, 712) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (734, 683) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (720, 650) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (702, 615) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (683, 576) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (664, 534) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (646, 495) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (628, 451) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (617, 410) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (609, 380) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (603, 353) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (601, 339) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 329) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 329) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 328) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 327) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 325) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 320) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 306) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 293) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 281) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 269) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (599, 256) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (597, 244) in window: keylogger.py
+[2024-12-16 19:18:17] [Mouse] Mouse moved to (596, 232) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (594, 219) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (592, 209) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (591, 201) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (589, 193) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (588, 186) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (587, 181) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (586, 177) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (585, 175) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (584, 173) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (584, 171) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (583, 170) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (582, 169) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (582, 168) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (581, 167) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (580, 165) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (580, 164) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (579, 162) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (578, 160) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (578, 158) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (577, 156) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (576, 154) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (575, 152) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (575, 149) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (573, 146) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (572, 145) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (572, 144) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (571, 142) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (571, 142) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (570, 141) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (570, 140) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (569, 140) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (569, 140) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (569, 140) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 141) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 141) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 142) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 143) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 144) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 146) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 148) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 149) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 149) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 151) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 151) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 152) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 152) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 154) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 154) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 155) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 155) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 156) in window: keylogger.py
+[2024-12-16 19:18:18] [Mouse] Mouse moved to (568, 156) in window: keylogger.py
+[2024-12-16 19:18:19] [Mouse] Mouse Pressed at (568, 156) with Button.left
+[2024-12-16 19:18:19] [Mouse] Mouse Released at (568, 156) with Button.left
+[2024-12-16 19:18:19] [Mouse] Mouse Pressed at (568, 156) with Button.left
+[2024-12-16 19:18:19] [Mouse] Mouse Released at (568, 156) with Button.left
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (568, 158) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (568, 159) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (570, 163) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (572, 168) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (575, 173) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (579, 176) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (581, 181) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (583, 183) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (586, 186) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (588, 189) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (589, 191) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (592, 193) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (593, 195) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (595, 196) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (595, 197) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (596, 198) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (596, 199) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (596, 199) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (597, 200) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (597, 200) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (598, 200) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (598, 201) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (599, 201) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (599, 201) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (599, 201) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (599, 202) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (600, 202) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (600, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (600, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (602, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (603, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (605, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (608, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (612, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (617, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (623, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (628, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (635, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (644, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (655, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (670, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (683, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (701, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (720, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (739, 203) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (762, 204) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (780, 206) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (803, 211) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (820, 216) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (835, 222) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (850, 230) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (866, 237) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (875, 243) in window: keylog - Notepad
+[2024-12-16 19:18:20] [Mouse] Mouse moved to (883, 250) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (884, 250) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (884, 250) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (885, 250) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (887, 250) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (895, 249) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (912, 247) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (931, 240) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (959, 232) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (981, 225) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1005, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1031, 216) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1054, 213) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1076, 212) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1099, 210) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1123, 210) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1145, 215) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1146, 215) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1147, 215) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1149, 216) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1153, 216) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1157, 217) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1161, 219) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1164, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1166, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1168, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1170, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1172, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1175, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1177, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1178, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1179, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1180, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1180, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1181, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1182, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1182, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1183, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1183, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1184, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1184, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1185, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1186, 221) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1186, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1187, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1187, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1188, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1188, 220) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1189, 219) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1190, 219) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1190, 219) in window: keylog - Notepad
+[2024-12-16 19:18:21] [Mouse] Mouse moved to (1191, 219) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse Pressed at (1191, 219) with Button.left
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1191, 219) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1191, 219) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1191, 220) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1192, 221) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1192, 221) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1193, 222) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1193, 222) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1194, 223) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1194, 223) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1195, 223) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1195, 224) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1195, 224) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1196, 225) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1196, 225) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1196, 226) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1196, 226) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1196, 226) in window: keylog - Notepad
+[2024-12-16 19:18:22] [Mouse] Mouse moved to (1197, 226) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1197, 227) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1197, 227) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1197, 228) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1197, 229) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1198, 229) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1198, 230) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1199, 231) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1199, 232) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1201, 233) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1201, 233) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1202, 235) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1202, 235) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1204, 236) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1205, 237) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1206, 238) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1206, 238) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1207, 239) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1207, 239) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1207, 240) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1208, 241) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1208, 241) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1208, 242) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1209, 242) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1210, 243) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1210, 243) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1211, 243) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1211, 244) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1212, 245) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1213, 246) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1213, 247) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1214, 248) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1214, 248) in window: keylog - Notepad
+[2024-12-16 19:18:23] [Mouse] Mouse moved to (1215, 249) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1215, 249) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1216, 250) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1217, 250) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1217, 250) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1217, 251) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1218, 252) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1218, 252) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1218, 253) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1219, 253) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1219, 254) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1220, 254) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1221, 255) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1221, 256) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1221, 257) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1222, 257) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1222, 258) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1223, 258) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1223, 259) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1224, 260) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1224, 260) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1225, 260) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1225, 261) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1225, 261) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1226, 262) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1226, 262) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1226, 263) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1227, 263) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1227, 264) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1227, 264) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1228, 265) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1228, 265) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1229, 266) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1230, 266) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1230, 267) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1230, 268) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1231, 268) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1231, 268) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1231, 269) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1231, 269) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1232, 269) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1232, 270) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1232, 270) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1233, 271) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1233, 272) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1234, 272) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1234, 272) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1234, 273) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1235, 273) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1235, 274) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1235, 274) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1236, 275) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1236, 276) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1236, 276) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1237, 277) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1237, 277) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1238, 278) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1238, 278) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1238, 279) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1238, 280) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1239, 280) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1239, 281) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1239, 281) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1239, 282) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1240, 282) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1240, 283) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1241, 284) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1242, 285) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1242, 285) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1242, 287) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1243, 287) in window: keylog - Notepad
+[2024-12-16 19:18:24] [Mouse] Mouse moved to (1243, 288) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1243, 289) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1244, 290) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1245, 290) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1245, 291) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1245, 291) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1246, 292) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1246, 292) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1246, 293) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1246, 294) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1246, 294) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1247, 294) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1247, 295) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1247, 295) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1247, 296) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1247, 296) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1248, 297) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1248, 298) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1248, 299) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1249, 299) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1249, 300) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1249, 301) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1249, 302) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1250, 303) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1250, 305) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1251, 306) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1251, 308) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1251, 310) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1251, 311) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1252, 313) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 314) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 315) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 316) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 316) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 317) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1253, 318) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 319) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 320) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 320) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 321) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 322) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 322) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 323) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 324) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 325) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 326) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 327) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1254, 327) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 329) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 330) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 331) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 331) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 332) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 333) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 333) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1255, 334) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 335) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 337) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 338) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 339) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 340) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 342) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 343) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 344) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 346) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 347) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 349) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 350) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 351) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 353) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 354) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 355) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 356) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 356) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 358) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 358) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 359) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 359) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 360) in window: keylog - Notepad
+[2024-12-16 19:18:25] [Mouse] Mouse moved to (1256, 360) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 361) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 362) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 362) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 363) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 363) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 364) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 364) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 365) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 366) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 366) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 367) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 367) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 368) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 369) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 370) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 371) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 371) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 372) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 373) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 374) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 375) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 376) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 378) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 378) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 379) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 380) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 380) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 381) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 382) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 382) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 383) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 384) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 384) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 385) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 386) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 386) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 387) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 387) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 387) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 388) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 388) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1256, 389) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 389) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 390) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 389) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 389) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 389) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 390) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 390) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 391) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 391) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 391) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 392) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 392) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1251, 393) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1251, 398) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1251, 402) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1251, 405) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1252, 408) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1252, 411) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Active Window] Active Window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1252, 413) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 415) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 416) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 417) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 420) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1253, 421) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 422) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 423) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1254, 425) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 427) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 428) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 431) in window: keylog - Notepad
+[2024-12-16 19:18:26] [Mouse] Mouse moved to (1255, 433) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1256, 438) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1256, 442) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1256, 446) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1257, 450) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1257, 453) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1257, 457) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 460) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 463) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 465) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 467) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 469) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 471) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 472) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 473) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 474) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 475) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 475) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 476) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 476) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 477) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 477) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1258, 477) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1257, 475) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1257, 475) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1256, 474) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1255, 473) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1255, 472) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1255, 471) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1254, 471) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1253, 469) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1253, 469) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1252, 469) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1252, 468) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1252, 468) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1252, 467) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1251, 467) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1251, 467) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1251, 466) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1251, 465) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1250, 465) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1250, 464) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1249, 464) in window: keylog - Notepad
+[2024-12-16 19:18:27] [Mouse] Mouse moved to (1249, 464) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1249, 464) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1249, 464) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1250, 464) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1250, 467) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1252, 469) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1253, 471) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1255, 473) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1256, 476) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1257, 477) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1258, 478) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1258, 480) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1259, 481) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1260, 482) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1260, 483) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1260, 484) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1261, 484) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1261, 485) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1261, 485) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1261, 485) in window: keylog - Notepad
+[2024-12-16 19:18:28] [Mouse] Mouse moved to (1261, 485) in window: keylog - Notepad
+[2024-12-16 19:18:29] [Mouse] Mouse moved to (1261, 485) in window: keylog - Notepad
+[2024-12-16 19:18:29] [Mouse] Mouse moved to (1261, 484) in window: keylog - Notepad
+[2024-12-16 19:18:29] [Mouse] Mouse moved to (1261, 483) in window: keylog - Notepad
+[2024-12-16 19:18:29] [Mouse] Mouse moved to (1261, 483) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1261, 483) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1261, 482) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1261, 482) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1260, 481) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse Released at (1260, 481) with Button.left
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1260, 481) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1259, 478) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1252, 456) in window: keylog - Notepad
+[2024-12-16 19:18:30] [Mouse] Mouse moved to (1238, 420) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1225, 384) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1212, 348) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1198, 312) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1188, 279) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1176, 249) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1166, 218) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1156, 193) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1151, 174) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1146, 160) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1144, 152) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1143, 147) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1142, 144) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1142, 144) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1140, 144) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1137, 145) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1133, 147) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1126, 151) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1120, 153) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1114, 156) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1111, 157) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1106, 158) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1103, 160) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1100, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1097, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1095, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1094, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1094, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1093, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1092, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse moved to (1092, 161) in window: keylog - Notepad
+[2024-12-16 19:18:31] [Mouse] Mouse Pressed at (1092, 161) with Button.left
+[2024-12-16 19:18:32] [Mouse] Mouse Released at (1092, 161) with Button.left
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1091, 161) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1090, 161) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1087, 162) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1075, 164) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1056, 165) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1039, 167) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (1014, 168) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (992, 168) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (964, 170) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (931, 173) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (894, 177) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (859, 178) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (831, 180) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (806, 180) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (792, 180) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (780, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (770, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (765, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (761, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (761, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (760, 181) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (759, 179) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (757, 178) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (753, 176) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (750, 173) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (748, 171) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (745, 169) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (744, 168) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (743, 167) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (742, 166) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (741, 165) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (741, 165) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (740, 164) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (740, 163) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (740, 163) in window: keylogger.py
+[2024-12-16 19:18:32] [Mouse] Mouse moved to (740, 162) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (739, 162) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (739, 162) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (739, 161) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (739, 161) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (738, 161) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (738, 160) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (738, 159) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (737, 159) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (736, 159) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (736, 158) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (736, 158) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (735, 157) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (735, 157) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (734, 156) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (734, 155) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (733, 155) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (732, 155) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (732, 154) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (732, 154) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (731, 154) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse moved to (731, 154) in window: keylogger.py
+[2024-12-16 19:18:33] [Mouse] Mouse Pressed at (731, 154) with Button.left
+[2024-12-16 19:18:33] [Mouse] Mouse Released at (731, 154) with Button.left
+[2024-12-16 19:18:33] [Mouse] Mouse Pressed at (731, 154) with Button.left
+[2024-12-16 19:18:33] [Mouse] Mouse Released at (731, 154) with Button.left
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (730, 154) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (728, 154) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (714, 154) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (673, 157) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (631, 159) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (587, 162) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (548, 166) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (515, 168) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (490, 169) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (475, 170) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (465, 170) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (457, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (456, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (454, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (446, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (426, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (411, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (395, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (383, 171) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (374, 170) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse moved to (367, 168) in window: screenshots
+[2024-12-16 19:18:34] [Mouse] Mouse Pressed at (367, 168) with Button.left
+[2024-12-16 19:18:35] [Mouse] Mouse Released at (367, 168) with Button.left
+[2024-12-16 19:18:35] [Mouse] Mouse Pressed at (367, 168) with Button.left
+[2024-12-16 19:18:35] [Mouse] Mouse Released at (367, 168) with Button.left
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (367, 168) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (368, 168) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (374, 168) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (387, 168) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (404, 168) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (417, 167) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (431, 166) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (446, 165) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (459, 164) in window: Photos
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (473, 162) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (489, 161) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (503, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (517, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (532, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (546, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (559, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (573, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (583, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (593, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (602, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (611, 160) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (621, 161) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (630, 162) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (640, 163) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (646, 163) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (655, 165) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (663, 166) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (672, 168) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (680, 169) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (690, 170) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (698, 171) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (710, 173) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (720, 175) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (729, 177) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (741, 179) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (754, 181) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (765, 185) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (780, 188) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (793, 192) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (809, 195) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (828, 201) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (850, 206) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (864, 211) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (876, 216) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (886, 219) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (892, 223) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (896, 226) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (900, 228) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (902, 231) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (905, 233) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (906, 236) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (908, 238) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (908, 241) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (909, 242) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 243) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 244) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 244) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 245) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Active Window] Active Window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 245) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:36] [Mouse] Mouse moved to (910, 245) in window: screenshot_20241216-191756.png
+[2024-12-16 19:18:38] [Keystroke] Special Key: Key.right
+[2024-12-16 19:18:39] [Keystroke] Special Key: Key.right
+[2024-12-16 19:18:39] [Keystroke] Special Key: Key.right
+[2024-12-16 19:18:40] [Keystroke] Special Key: Key.esc
